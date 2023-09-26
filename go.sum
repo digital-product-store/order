@@ -153,10 +153,10 @@ github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyC
 github.com/valyala/fasttemplate v1.2.1/go.mod h1:KHLXt3tVN2HBp8eijSv/kGJopbvo7S+qRAEEKiv+SiQ=
 github.com/valyala/fasttemplate v1.2.2 h1:lxLXG0uE3Qnshl9QyaK6XJxMXlQZELvChBOCmQD0Loo=
 github.com/valyala/fasttemplate v1.2.2/go.mod h1:KHLXt3tVN2HBp8eijSv/kGJopbvo7S+qRAEEKiv+SiQ=
-go.elastic.co/apm/module/apmechov4/v2 v2.4.3 h1:wT1DMi0DraiaoevMvnsUjVXmyUqGmGhgvCumMAWB3Xs=
-go.elastic.co/apm/module/apmechov4/v2 v2.4.3/go.mod h1:GSAq9M71zO8oUssshFNo9WvRbjzU9iyXYp0tct0VYmU=
-go.elastic.co/apm/module/apmhttp/v2 v2.4.3 h1:bBqbbtQSEL+uVpH5CS656E9x6pXha8kkZ468/G0T5Eo=
-go.elastic.co/apm/module/apmhttp/v2 v2.4.3/go.mod h1:PsafA29/iwRva1ouV+70Lfu6RyAJHh6Zcc+jL6eZ83E=
+go.elastic.co/apm/module/apmechov4/v2 v2.4.4 h1:ZPY6G4n4zdYYC6hm0qT+Wbo59oSYFnfpQY0hPEU/BPM=
+go.elastic.co/apm/module/apmechov4/v2 v2.4.4/go.mod h1:d5q0u3pFbxJCi1W3PWd/hVfIEOEvbfRW67MIh6vblRU=
+go.elastic.co/apm/module/apmhttp/v2 v2.4.4 h1:BcJDLFztZByHiJRXXvAHY7bue9+vhzMLn2OBK5N8HDw=
+go.elastic.co/apm/module/apmhttp/v2 v2.4.4/go.mod h1:694qsHWRPVkfYqQ224ZSeRx9Dt2FS/xF1igNBGkHi6o=
 go.elastic.co/apm/v2 v2.4.4 h1:KGbmUEtLNQ6sCFGpqTMhfRjqDOKP8IliO+efErKY5lU=
 go.elastic.co/apm/v2 v2.4.4/go.mod h1:+CiBUdrrAGnGCL9TNx7tQz3BrfYV23L8Ljvotoc87so=
 go.elastic.co/fastjson v1.3.0 h1:hJO3OsYIhiqiT4Fgu0ZxAECnKASbwgiS+LMW5oCopKs=
