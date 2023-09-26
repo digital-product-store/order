@@ -11,7 +11,7 @@ require (
 	github.com/lib/pq v1.10.9
 	github.com/redis/go-redis/v9 v9.0.5
 	go.elastic.co/apm/module/apmechov4/v2 v2.4.3
-	go.elastic.co/apm/v2 v2.4.3
+	go.elastic.co/apm/v2 v2.4.4
 	go.uber.org/zap v1.26.0
 )
 
