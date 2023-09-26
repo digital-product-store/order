@@ -12,7 +12,7 @@ require (
 	github.com/redis/go-redis/v9 v9.0.5
 	go.elastic.co/apm/module/apmechov4/v2 v2.4.3
 	go.elastic.co/apm/v2 v2.4.3
-	go.uber.org/zap v1.24.0
+	go.uber.org/zap v1.26.0
 )
 
 require (
@@ -57,7 +57,6 @@ require (
 	github.com/valyala/fasttemplate v1.2.2 // indirect
 	go.elastic.co/apm/module/apmhttp/v2 v2.4.3 // indirect
 	go.elastic.co/fastjson v1.3.0 // indirect
-	go.uber.org/atomic v1.11.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/arch v0.3.0 // indirect
 	golang.org/x/crypto v0.11.0 // indirect
