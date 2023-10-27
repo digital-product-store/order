@@ -6,7 +6,7 @@ require (
 	github.com/caarlos0/env/v9 v9.0.0
 	github.com/deepmap/oapi-codegen v1.15.0
 	github.com/getkin/kin-openapi v0.120.0
-	github.com/google/uuid v1.3.1
+	github.com/google/uuid v1.4.0
 	github.com/labstack/echo/v4 v4.11.1
 	github.com/lib/pq v1.10.9
 	github.com/redis/go-redis/v9 v9.2.1
