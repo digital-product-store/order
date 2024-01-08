@@ -9,7 +9,7 @@ require (
 	github.com/google/uuid v1.3.1
 	github.com/labstack/echo/v4 v4.11.1
 	github.com/lib/pq v1.10.9
-	github.com/redis/go-redis/v9 v9.2.1
+	github.com/redis/go-redis/v9 v9.4.0
 	go.elastic.co/apm/module/apmechov4/v2 v2.4.5
 	go.elastic.co/apm/v2 v2.4.5
 	go.uber.org/zap v1.26.0
